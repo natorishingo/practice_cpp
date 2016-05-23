@@ -1,9 +1,9 @@
-//‰æ–Ê‚É•¶š‚ğ•\¦‚·‚éƒR[ƒh
+//ç”»é¢ã«æ–‡å­—ã‚’è¡¨ç¤ºã™ã‚‹ã‚³ãƒ¼ãƒ‰
 #include <stdio.h>
 
 int main(void)
 {
-	printf("hello\n");
+	printf("hello!!\n");
 
 	return 0;
 }
